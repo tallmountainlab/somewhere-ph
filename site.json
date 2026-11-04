@@ -1,0 +1,57 @@
+{
+  "name": "somewhere.ph",
+  "logo": [
+    "somewhere",
+    ".ph"
+  ],
+  "tagline": "Find your island in the Philippines",
+  "description": "Practical Philippines travel guides: islands, beaches, itineraries, ferries, weather and costs, written for first-time and returning visitors.",
+  "url": "https://somewhere.ph",
+  "language": "en",
+  "contact_email": "hello@somewhere.ph",
+  "fonts_href": "https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;600&display=swap",
+  "hero": {
+    "kicker": "Wish you were here · Philippines",
+    "title": "7,641 islands, and a memory waiting on every one.",
+    "text": "Warm, practical guides to Palawan, Siargao, Cebu, Bohol and beyond, for first trips, return trips and trips back home."
+  },
+  "guides_description": "Every somewhere.ph guide to traveling the Philippines.",
+  "newsletter": {
+    "title": "Get the Philippines trip letter",
+    "text": "New island guides, ferry and weather updates, and travel deals. One email a month."
+  },
+  "article_note": "Ferry schedules, entry rules and fees in the Philippines change often, and weather can cancel boats at short notice. Confirm with operators and official sources before you travel.",
+  "_comment_monetization": "Armando fills these in. Leave a value empty and that block simply stays hidden on the site.",
+  "adsense_client_id": "",
+  "newsletter_form_action": "",
+  "affiliates": {
+    "insurance": {
+      "label": "Get travel medical insurance from SafetyWing",
+      "url": "https://safetywing.com/nomad-insurance?referenceID=26629104&utm_source=26629104&utm_medium=Ambassador"
+    },
+    "stays": {
+      "label": "Find beach stays on Booking.com",
+      "url": ""
+    },
+    "flights": {
+      "label": "Search flights to Manila and Cebu on Kiwi.com",
+      "url": "https://kiwi.tpx.li/wyDjrZdE"
+    },
+    "ferries": {
+      "label": "Book Philippine ferries and transfers",
+      "url": ""
+    },
+    "tours": {
+      "label": "Book island-hopping tours and activities on Klook",
+      "url": "https://klook.tpx.li/jdcOPy7C"
+    },
+    "esim": {
+      "label": "Get a Philippines eSIM from Airalo",
+      "url": "https://airalo.tpx.li/4HqIXZ1K"
+    },
+    "transfers": {
+      "label": "Book a private airport or van transfer with GetTransfer",
+      "url": "https://gettransfer.tpx.li/rOObq9B2"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://somewhere.ph/sitemap.xml
