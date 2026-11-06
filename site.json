@@ -13,7 +13,8 @@
   "hero": {
     "kicker": "Wish you were here · Philippines",
     "title": "7,641 islands, and a memory waiting on every one.",
-    "text": "Warm, practical guides to Palawan, Siargao, Cebu, Bohol and beyond, for first trips, return trips and trips back home."
+    "text": "Warm, practical guides to Palawan, Siargao, Cebu, Bohol and beyond, for first trips, return trips and trips back home.",
+    "image": "el-nido-lagoon"
   },
   "guides_description": "Every somewhere.ph guide to traveling the Philippines.",
   "newsletter": {
@@ -54,5 +55,13 @@
       "url": "https://gettransfer.tpx.li/rOObq9B2"
     }
   },
-  "travelpayouts_drive_src": "https://emrldtp.cc/NTk1NTgx.js?t=595581"
+  "travelpayouts_drive_src": "https://emrldtp.cc/NTk1NTgx.js?t=595581",
+  "then_now": {
+    "image": "manila-street-1900",
+    "title": "The same islands, a slower way to see them",
+    "text": [
+      "Around 1900, crossing between islands meant days on a steamer, and a letter home could take weeks. Manila's streets, like the one in this old photo, were full of horse-drawn carts and shop awnings.",
+      "Today a morning flight can have you on a white beach by lunch. The bangkas, the fiestas and the warm welcome are the same ones your lolo and lola would remember. That mix of old and new is what this site is about."
+    ]
+  }
 }
