@@ -308,5 +308,55 @@
   "author": "Diego Delso",
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "vigan-bougainvillea": {
+  "from": "vigan-heritage-town-guide/2",
+  "alt": "Pink bougainvillea spilling over a wall on Calle Crisologo with old houses behind",
+  "caption": "Bougainvillea on Calle Crisologo, Vigan.",
+  "title": "File:Calle Crisologo, Vigan City - Vigan2202.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Calle_Crisologo,_Vigan_City_-_Vigan2202.jpg",
+  "author": "lumoplank",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+ },
+ "vigan-cathedral-plaza": {
+  "from": "vigan-heritage-town-guide/3",
+  "alt": "The white facade of Vigan Cathedral behind a plaza fountain",
+  "caption": "Vigan Cathedral and the plaza.",
+  "title": "File:Metropolitan Cathedral of the Conversion of St. Paul the Apostle (Vigan Cathedral) - Vigan, Ilocos Sur, Philippines.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Metropolitan_Cathedral_of_the_Conversion_of_St._Paul_the_Apostle_(Vigan_Cathedral)_-_Vigan,_Ilocos_Sur,_Philippines.jpg",
+  "author": "Jimvikipedia",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "bantay-bell-tower": {
+  "from": "vigan-heritage-town-guide/6",
+  "alt": "The old brick Bantay Bell Tower with orange flowers in front",
+  "caption": "The Bantay Bell Tower.",
+  "title": "File:Bantay Church Bell Tower, Ilocos Sur.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bantay_Church_Bell_Tower,_Ilocos_Sur.jpg",
+  "author": "Roniel Soriano",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "vigan-empanada": {
+  "from": "vigan-heritage-town-guide/9",
+  "alt": "Golden fried Vigan empanadas in a basket with a bowl of spiced vinegar",
+  "caption": "Vigan empanada with spiced vinegar.",
+  "title": "File:Empanada de Vigan.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Empanada_de_Vigan.jpg",
+  "author": "Jessartcam",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "vigan-calesas-cathedral": {
+  "from": "vigan-heritage-town-guide/8",
+  "alt": "Horse-drawn calesas lined up beside the stone wall of Vigan Cathedral",
+  "caption": "Calesas waiting beside Vigan Cathedral.",
+  "title": "File:Calesas Parked at Vigan Cathedral.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Calesas_Parked_at_Vigan_Cathedral.jpg",
+  "author": "Handtell",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
  }
 }
