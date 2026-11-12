@@ -358,5 +358,45 @@
   "author": "Handtell",
   "license": "CC BY-SA 3.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+ },
+ "tappiya-falls": {
+  "from": "banaue-batad-rice-terraces-guide/5",
+  "alt": "Tappiya Falls dropping into a rocky pool surrounded by green cliffs",
+  "caption": "Tappiya Falls, a walk from Batad village.",
+  "title": "File:Tappiya Falls (Batad, Banaue, Ifugao; 11-26-2022).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tappiya_Falls_(Batad,_Banaue,_Ifugao;_11-26-2022).jpg",
+  "author": "Patrickroque01",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "hapao-terraces": {
+  "from": "banaue-batad-rice-terraces-guide/9",
+  "alt": "Bright green rice terraces at Hapao in a mountain valley",
+  "caption": "The Hapao rice terraces, Hungduan.",
+  "title": "File:Hapao Rice Terraces.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hapao_Rice_Terraces.jpg",
+  "author": "Falinchao.jing",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "ifugao-hut": {
+  "from": "banaue-batad-rice-terraces-guide/8",
+  "alt": "Ifugao people pounding rice under a traditional thatched hut",
+  "caption": "A traditional Ifugao house.",
+  "title": "File:Ifugao Hut.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ifugao_Hut.jpg",
+  "author": "Ranieljosecastaneda",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "batad-house": {
+  "from": "banaue-batad-rice-terraces-guide/2",
+  "alt": "A small house with a red roof between flooded rice terraces in Batad",
+  "caption": "A home among the terraces of Batad.",
+  "title": "File:Banaue Philippines Batad-Rice-Terraces-03.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Banaue_Philippines_Batad-Rice-Terraces-03.jpg",
+  "author": "CEphoto, Uwe Aranas",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
  }
 }
