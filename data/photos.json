@@ -398,5 +398,55 @@
   "author": "CEphoto, Uwe Aranas",
   "license": "CC BY-SA 3.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+ },
+ "cambugahay-falls": {
+  "from": "siquijor-island-guide/3",
+  "alt": "Turquoise pools and small waterfalls at Cambugahay Falls surrounded by jungle",
+  "caption": "Cambugahay Falls, Lazi.",
+  "title": "File:Cambugahay Falls 01.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Cambugahay_Falls_01.JPG",
+  "author": "Lawrence Ruiz",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "paliton-beach": {
+  "from": "siquijor-island-guide/5",
+  "alt": "Outrigger boats under leaning coconut palms on Paliton Beach",
+  "caption": "Paliton Beach, San Juan.",
+  "title": "File:Paliton Beach, Siquijor, Philippines.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Paliton_Beach,_Siquijor,_Philippines.JPG",
+  "author": "Checawey",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+ },
+ "lazi-church": {
+  "from": "siquijor-island-guide/6",
+  "alt": "The coral-stone Lazi Church with its bell tower and red roof",
+  "caption": "San Isidro Labrador Church, Lazi.",
+  "title": "File:Lazi Church of Siquijor.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lazi_Church_of_Siquijor.jpg",
+  "author": "Djhal107",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "balete-tree-lazi": {
+  "from": "siquijor-island-guide/8",
+  "alt": "A huge balete tree with hanging roots above a spring-fed pool",
+  "caption": "The old balete tree and its spring.",
+  "title": "File:Enchanted Balete Tree in Lazi.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Enchanted_Balete_Tree_in_Lazi.JPG",
+  "author": "Lawrence Ruiz",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "siquijor-beach": {
+  "from": "siquijor-island-guide/1",
+  "alt": "A thatched beach umbrella on white sand beside calm blue water",
+  "caption": "A quiet beach on Siquijor.",
+  "title": "File:Siquijor Island Philippines.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Siquijor_Island_Philippines.jpg",
+  "author": "Gramovill",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
  }
 }
