@@ -448,5 +448,55 @@
   "author": "Gramovill",
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "boracay-paraws": {
+  "from": "boracay-travel-guide/4",
+  "alt": "Blue and white paraw sailboats pulled up on Boracay's white sand beside turquoise water",
+  "caption": "Paraw sailboats on White Beach.",
+  "title": "File:Paraw sailboats in Boracay 2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Paraw_sailboats_in_Boracay_2.jpg",
+  "author": "The Wandering Angel",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0"
+ },
+ "paraw-sunset": {
+  "from": "boracay-travel-guide/3",
+  "alt": "A paraw sailboat silhouetted against an orange sunset",
+  "caption": "A sunset sail off White Beach.",
+  "title": "File:Boracay Sailing Paraw.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Boracay_Sailing_Paraw.jpg",
+  "author": "Anthony Alger",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+ },
+ "willys-rock": {
+  "from": "boracay-travel-guide/5",
+  "alt": "Willy's Rock, a small rocky islet with a grotto, in the shallow water off Station 1",
+  "caption": "Willy's Rock, Station 1.",
+  "title": "File:Boracay Willy's Rock front (Malay, Aklan; 04-06-2024).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Boracay_Willy%27s_Rock_front_(Malay,_Aklan;_04-06-2024).jpg",
+  "author": "Patrickroque01",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "mount-luho-view": {
+  "from": "boracay-travel-guide/7",
+  "alt": "View from Mount Luho over Boracay's coastline and turquoise shallows",
+  "caption": "Boracay from Mount Luho.",
+  "title": "File:Boracay view from Mount Luho 2012-10-27.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Boracay_view_from_Mount_Luho_2012-10-27.jpg",
+  "author": "LMP 2001",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "white-beach-sunset": {
+  "from": "boracay-travel-guide/2",
+  "alt": "People watching the sunset on White Beach as sailboats pass",
+  "caption": "Sunset crowds on White Beach, Station 2.",
+  "title": "File:Boracay White Beach seaside sunset 1 (Malay, Aklan; 04-06-2024).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Boracay_White_Beach_seaside_sunset_1_(Malay,_Aklan;_04-06-2024).jpg",
+  "author": "Patrickroque01",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
  }
 }
