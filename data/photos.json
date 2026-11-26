@@ -548,5 +548,45 @@
   "author": "Johnkevinreglos",
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "lechon": {
+  "from": "philippine-food-guide/1",
+  "alt": "Visayan lechon (roast pig) served with white rice",
+  "caption": "Visayan lechon with rice, the centerpiece of every fiesta",
+  "title": "File:Filipino (Visayan) lechon, with white rice 02.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Filipino_(Visayan)_lechon,_with_white_rice_02.jpg",
+  "author": "Obsidian Soul",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+ },
+ "adobo": {
+  "from": "philippine-food-guide/5",
+  "alt": "Filipino-style adobo in a bowl",
+  "caption": "Adobo, the dish every Filipino family argues about",
+  "title": "File:Adobo Filipino style.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Adobo_Filipino_style.jpg",
+  "author": "Chammy17",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "sinigang": {
+  "from": "philippine-food-guide/8",
+  "alt": "Sinigang na baboy, a sour tamarind pork soup",
+  "caption": "Sinigang na baboy, sour and comforting",
+  "title": "File:Sinigang na Baboy DSCF4234.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sinigang_na_Baboy_DSCF4234.jpg",
+  "author": "Joy D. Ganaden",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "boodle-fight": {
+  "from": "philippine-food-guide/9",
+  "alt": "A boodle fight feast laid out on banana leaves",
+  "caption": "A boodle fight: rice and viands on banana leaves, eaten by hand",
+  "title": "File:Boodle fight (kamayan) 01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Boodle_fight_(kamayan)_01.jpg",
+  "author": "Ej Afable",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
  }
 }
